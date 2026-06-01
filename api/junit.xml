@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" errors="0" time="0.187">
+  <testsuite name="Teste para ver se API está nos conformes" errors="0" failures="0" skipped="0" timestamp="2026-06-01T20:17:41" time="0.12" tests="1">
+    <testcase classname="Teste para ver se API está nos conformes Deve retornar 200 e status ok" name="Teste para ver se API está nos conformes Deve retornar 200 e status ok" time="0.013">
+    </testcase>
+  </testsuite>
+  <testsuite name="Teste com valores certos" errors="0" failures="0" skipped="0" timestamp="2026-06-01T20:17:41" time="0.017" tests="4">
+    <testcase classname="Teste com valores certos Valores inválidos devem lançar erro" name="Teste com valores certos Valores inválidos devem lançar erro" time="0.004">
+    </testcase>
+    <testcase classname="Teste com valores certos Valores corretos devem calcular o IMC" name="Teste com valores certos Valores corretos devem calcular o IMC" time="0">
+    </testcase>
+    <testcase classname="Teste com valores certos Classificação inválida deve lançar erro" name="Teste com valores certos Classificação inválida deve lançar erro" time="0.001">
+    </testcase>
+    <testcase classname="Teste com valores certos Classificação correta para IMC saudável" name="Teste com valores certos Classificação correta para IMC saudável" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
